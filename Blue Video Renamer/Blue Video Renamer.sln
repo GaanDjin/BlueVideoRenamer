@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blue Video Renamer", "Blue Video Renamer\Blue Video Renamer.csproj", "{B93D6585-CF7B-4895-82A1-B88F0006B161}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheTVDB API v2", "TheTVDB API v2\TheTVDB API v2.csproj", "{DA6B773B-95A5-4CC1-8005-5894F78C033A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93D6585-CF7B-4895-82A1-B88F0006B161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93D6585-CF7B-4895-82A1-B88F0006B161}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93D6585-CF7B-4895-82A1-B88F0006B161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93D6585-CF7B-4895-82A1-B88F0006B161}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA6B773B-95A5-4CC1-8005-5894F78C033A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA6B773B-95A5-4CC1-8005-5894F78C033A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA6B773B-95A5-4CC1-8005-5894F78C033A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA6B773B-95A5-4CC1-8005-5894F78C033A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B63F8EED-63DE-4C9D-ACD5-3F1436C28938}
+	EndGlobalSection
+EndGlobal
