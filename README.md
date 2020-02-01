@@ -23,6 +23,18 @@ You might notice the files in the pic are 0Kb as they are all dummy files. The p
 
 It can handle moving files into sub directories allowing seasons to be moved into their own folders. 
 
+# Limitations:
+
+A few things to be aware of / known issues:
+
+Shows with lots of seasons (over 10) will have season number confusion. For instance, season 12 shows will link to season 02 files.
+
+It doesn't care about extensions so if you align a new filename with a text file rather than the video it will rename the text file instead of the video. 
+
+Be extra careful about lining up the right file with the right new name as there is no extra validation and it *WILL* write the changes to disk indiscriminately. Especially when dealing with "unwanted" and "duplicate" entries while rearranging the list.
+
+Extranious files and folders may not delete when "Delete Unwanted Files" is checked.
+
 ## General Options:
 ![Video Rename Options](Demo/Rename_Options.png)
 
