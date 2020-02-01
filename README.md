@@ -7,6 +7,8 @@ Requirements: A [TVDB API Key](https://thetvdb.com/api-information)
 
 Allows users to rename TV Show files based on results from The TV DB.
 
+Issues? Let me know! [Tyler](mailto:tyler@fromthe.blue)
+
 Using the template:
 
 %1 - Season %3\%1 - S%3E%6 - %2
