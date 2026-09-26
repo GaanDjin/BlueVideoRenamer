@@ -1,3 +1,6 @@
+# Archived 
+Alas, the TV DB changed their API and this program won't work with the new API Keys. For now this is just here for reference.
+
 # BlueVideoRenamer
 A simple application that uses the TVDB api (Version 2) to rename TV Shows (That you've backed up from purchases right!?)
 
